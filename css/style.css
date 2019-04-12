@@ -27,13 +27,13 @@ h1 {
 }
 @font-face {
     font-family: 'Soul Paint';
-    src: url("../font/Soul Paint.ttf");
+    src: url("font/Soul Paint.ttf");
     font-weight: normal;
     font-style: normal;
 }
 #monster {
 	position: fixed;
-	background-image: url('../images/monster1.png');
+	background-image: url('images/monster1.png');
 	width: 206px;
 	height: 222px;
 	bottom: 300px;
@@ -90,7 +90,7 @@ h1 {
 }
 
 #Car{
-	background-image:url('../images/car.png');
+	background-image:url('images/car.png');
 	position: absolute;
 	height: 100%;
 	width: 1220px;
@@ -98,28 +98,28 @@ h1 {
 	z-index: 9;
 }
 #bg1-1 {
-	background: url('../images/bg1-1.png') no-repeat;
+	background: url('images/bg1-1.png') no-repeat;
 	width: 10000px;
 	position: absolute;
 	z-index: 1;
 	top: 350px;
 }
 #bg1-2 {
-	background: url('../images/bg1-2.png') no-repeat;
+	background: url('images/bg1-2.png') no-repeat;
 	width: 100%;
 	position: absolute;
 	z-index: 10;
 	top: 130px;
 }
 #bg1-3 {
-	background:  url(../images/bg1-3.png) no-repeat;
+	background:  url(images/bg1-3.png) no-repeat;
 	width: 100%;
 	position: absolute;
 	z-index: 10;
 	top: 300px;
 }
 #bg1-4{
-	background-image:url('../images/bg1-4.png');
+	background-image:url('images/bg1-4.png');
 	position: absolute;
 	width: 215px;
 	height: 180px;
@@ -127,7 +127,7 @@ h1 {
 	z-index: 9;
 }
 #bg2-1 {
-	background: url('../images/bg2-1.png') no-repeat;
+	background: url('images/bg2-1.png') no-repeat;
 	width: 100%;
 	position: absolute;
 	z-index: 19;
@@ -135,7 +135,7 @@ h1 {
 }
 
 #bg2-2 {
-	background: url('../images/bg2-2.png') no-repeat;
+	background: url('images/bg2-2.png') no-repeat;
 	width: 6000px;
 	position: fixed;
 	z-index: 5;
@@ -144,7 +144,7 @@ h1 {
 	-webkit-animation: bobble 2s infinite;
 }
 #bg2-3{
-	background-image:url('../images/fact.png');
+	background-image:url('images/fact.png');
 	position: absolute;
 	width: 300px;
 	height: 174px;
@@ -152,21 +152,21 @@ h1 {
 	z-index: 19;
 }
 #bg3-1{
-	background: url(../images/bg3-1.png) no-repeat;
+	background: url(images/bg3-1.png) no-repeat;
 	width: 100%;
 	position: absolute;
 	z-index: 19;
 	top: 100px;
 }
 #bg3-2{
-	background-image:url('../images/fact1.png');
+	background-image:url('images/fact1.png');
 	position: absolute;
 	width: 300px;
 	top: 10px;
 	z-index: 19;
 }
 #bg4-1 {
-	background: url('../images/bg4-1.png') no-repeat;
+	background: url('images/bg4-1.png') no-repeat;
 	position: fixed;
 	z-index: 20;
 	width: 1840px;
@@ -174,7 +174,7 @@ h1 {
 }
 
 #bg4-2 {
-	background: url('../images/bg4-2.png') no-repeat;
+	background: url('images/bg4-2.png') no-repeat;
 	width: 2000px;
 	position: absolute;
 	z-index: 20;
@@ -182,14 +182,14 @@ h1 {
 }
 
 #bg4-3 {
-	background: url("../images/fact2.png") no-repeat;
+	background: url("images/fact2.png") no-repeat;
 	position: absolute;
 	width: 300px;
 	top: 10px;
 	z-index: 20;
 }
 #bg6-1 {
-	background: url('../images/bg6-1.png') no-repeat;
+	background: url('images/bg6-1.png') no-repeat;
 	width: 100%;
 	height: 700px;
 	position: fixed;
@@ -198,7 +198,7 @@ h1 {
 }
 
 #bg6-2 {
-	background: url('../images/fact3.png') no-repeat;
+	background: url('images/fact3.png') no-repeat;
 	position: absolute;
 	width: 300px;
 	top: 10px;
@@ -206,7 +206,7 @@ h1 {
 }
 
 #bg6-3 {
-	background: url('../images/bg6-3.png') no-repeat;
+	background: url('images/bg6-3.png') no-repeat;
 	width: 100%;
 	height: 700px;
 	position: fixed;
@@ -214,21 +214,21 @@ h1 {
 	bottom: -150px;
 }
 #bg6-4 {
-	background: url('../images/bg6-4.png') no-repeat;
+	background: url('images/bg6-4.png') no-repeat;
 	width: 100%;
 	position: fixed;
 	z-index: 1;
 	bottom: -290px;
 }
 #bg6-5 {
-	background: url('../images/monster4.png') no-repeat;
+	background: url('images/monster4.png') no-repeat;
 	width: 100%;
 	position: fixed;
 	z-index: 1;
 	bottom: -165px;
 }
 #bg6-6 {
-	background: url('../images/stopspeech.png') no-repeat;
+	background: url('images/stopspeech.png') no-repeat;
 	width: 100%;
 	position: fixed;
 	z-index: 1;
@@ -236,14 +236,14 @@ h1 {
 }
 
 #p1-1 {
-	background: url('../images/p1-1.png') no-repeat;
+	background: url('images/p1-1.png') no-repeat;
 	width: 6000px;
 	position: fixed;
 	z-index: 20;
 	bottom: -350px;
 }
 #p4-1 {
-	background: url('../images/bg4-11.png') no-repeat;
+	background: url('images/bg4-11.png') no-repeat;
 	width: 100%;
 	position: fixed;
 	z-index: 11;
@@ -251,7 +251,7 @@ h1 {
 }
 
 #p5-1 {
-	background: url('../images/bg5-1.png') no-repeat;
+	background: url('images/bg5-1.png') no-repeat;
 	width: 100%;
 	position: fixed;
 	z-index: 11;
